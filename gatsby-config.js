@@ -3,7 +3,7 @@
 module.exports = {
   pathPrefix: '/workouts',
   siteMetadata: {
-    siteTitle: 'Fish running_page',
+    siteTitle: 'Workouts Map',
     siteUrl: 'https://runningpage.libo.run',
     logo: 'https://avatars.githubusercontent.com/u/119868298?v=4',
     description: '致那些抗争的日子',
