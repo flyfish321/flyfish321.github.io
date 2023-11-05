@@ -1,7 +1,7 @@
 /* eslint-disable no-undef */
 // eslint-disable-next-line no-undef
 module.exports = {
-  pathPrefix: '/running_page',
+  pathPrefix: '/workouts',
   siteMetadata: {
     siteTitle: 'Fish running_page',
     siteUrl: 'https://runningpage.libo.run',
